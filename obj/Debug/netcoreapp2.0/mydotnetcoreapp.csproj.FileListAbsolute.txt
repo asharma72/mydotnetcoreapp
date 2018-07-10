@@ -1,0 +1,10 @@
+/home/ubuntu/Dotnetcoretest/mydotnetcoreapp/bin/Debug/netcoreapp2.0/mydotnetcoreapp.deps.json
+/home/ubuntu/Dotnetcoretest/mydotnetcoreapp/bin/Debug/netcoreapp2.0/mydotnetcoreapp.runtimeconfig.json
+/home/ubuntu/Dotnetcoretest/mydotnetcoreapp/bin/Debug/netcoreapp2.0/mydotnetcoreapp.runtimeconfig.dev.json
+/home/ubuntu/Dotnetcoretest/mydotnetcoreapp/bin/Debug/netcoreapp2.0/mydotnetcoreapp.dll
+/home/ubuntu/Dotnetcoretest/mydotnetcoreapp/bin/Debug/netcoreapp2.0/mydotnetcoreapp.pdb
+/home/ubuntu/Dotnetcoretest/mydotnetcoreapp/obj/Debug/netcoreapp2.0/mydotnetcoreapp.csproj.CoreCompileInputs.cache
+/home/ubuntu/Dotnetcoretest/mydotnetcoreapp/obj/Debug/netcoreapp2.0/mydotnetcoreapp.AssemblyInfoInputs.cache
+/home/ubuntu/Dotnetcoretest/mydotnetcoreapp/obj/Debug/netcoreapp2.0/mydotnetcoreapp.AssemblyInfo.cs
+/home/ubuntu/Dotnetcoretest/mydotnetcoreapp/obj/Debug/netcoreapp2.0/mydotnetcoreapp.dll
+/home/ubuntu/Dotnetcoretest/mydotnetcoreapp/obj/Debug/netcoreapp2.0/mydotnetcoreapp.pdb
