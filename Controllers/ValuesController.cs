@@ -9,7 +9,7 @@ namespace mydotnetcoreapp.Controllers
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
-        // GET api/values/hhh
+        // GET api/values/hhh//
         [HttpGet]
         public IEnumerable<string> Get()
         {
